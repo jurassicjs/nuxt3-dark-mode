@@ -9,6 +9,7 @@
   "devDependencies": {
     "@nuxtjs/color-mode": "^3.0.2",
     "@nuxtjs/tailwindcss": "^5.0.0-4",
-    "nuxt": "3.0.0-rc.1"
+    "nuxt": "3.0.0-rc.1",
+    "prisma": "^3.14.0"
   }
 }
